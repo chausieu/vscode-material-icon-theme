@@ -809,8 +809,8 @@ export const folderIcons: FolderTheme[] = [
       },
       {
         name: 'folder-shopify',
-        folderNames: ['shopify']
-      }
+        folderNames: ['shopify'],
+      },
     ],
   },
   {
